@@ -1,4 +1,4 @@
-# Digital-Clock
+
 Digital clock using Python and the Tkinter library:
 
 ---
