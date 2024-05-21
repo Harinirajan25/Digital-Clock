@@ -1,5 +1,5 @@
 # Digital-Clock
-Sure, here’s a README.md file for a project that creates a digital clock using Python and the Tkinter library:
+Digital clock using Python and the Tkinter library:
 
 ---
 
